@@ -1,0 +1,10 @@
+name: instagram-filters
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pip
+  - py-opencv=3.4.1
+  - python=3.6.6
+  - spyder
+
